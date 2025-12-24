@@ -221,6 +221,18 @@
       }
     },
     {
+      "displayName": "wirkaufendeinauto.de",
+      "id": "",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "wirkaufendeinauto.de",
+        "brand:wikidata": "Q129993121",
+        "name": "wirkaufendeinauto.de",
+        "second_hand": "only",
+        "shop": "car"
+      }
+    },
+    {
       "displayName": "CarMax",
       "id": "carmax-71ab24",
       "locationSet": {"include": ["us"]},
